@@ -80,7 +80,7 @@ body là thẻ cha của nó */
     background-image: url(../img/home_slider.jpg);
     /* thường dùng với đơn vị vh để hiện thị trên nhiều máy có 
     màn hình khác nhau */
-    height: 70vh;
+    height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -557,8 +557,3 @@ footer {
     visibility: visible;
     opacity: 1;
 }
-
-
-
-
-
